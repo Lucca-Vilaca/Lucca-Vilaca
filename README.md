@@ -76,8 +76,8 @@ my coursework. Claude is my pair-programmer.
 ## 📫 Reach me
 
 <p align="center">
-  <a href="mailto:lucca.vilaca@gmail.com"><img src="https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://www.linkedin.com/in/luccaokubo/"><img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:lucca.vilaca@gmail.com"><img src="https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/luccaokubo/"><img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/S%C3%A3o_Paulo_BR-0f0f0f?style=for-the-badge&logo=googlemaps&logoColor=f59e0b" />
 </p>
 
