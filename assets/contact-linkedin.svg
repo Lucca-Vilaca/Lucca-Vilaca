@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="90" viewBox="0 0 280 90">
+  <rect x="2" y="2" width="276" height="86" rx="12" ry="12" fill="#0a0a0a" stroke="#0A66C2" stroke-width="1.5"/>
+  <rect x="14" y="14" width="62" height="62" rx="10" ry="10" fill="#0A66C2"/>
+  <text x="45" y="57" font-family="Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#ffffff" text-anchor="middle">in</text>
+  <text x="178" y="38" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#9CA3AF" text-anchor="middle" letter-spacing="2">CONNECT ON</text>
+  <text x="178" y="62" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">LinkedIn</text>
+</svg>
