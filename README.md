@@ -75,11 +75,12 @@ my coursework. Claude is my pair-programmer.
 
 ## 📫 Reach me
 
-<p align="center">
-  <a href="mailto:lucca.vilaca@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/luccaokubo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/S%C3%A3o_Paulo_BR-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, BR" />
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/luccaokubo/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lucca.vilaca@gmail.com)
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,50:7c2d12,100:0f0f0f&height=120&section=footer" width="100%" />
