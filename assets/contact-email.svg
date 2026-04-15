@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="90" viewBox="0 0 280 90">
+  <rect x="2" y="2" width="276" height="86" rx="12" ry="12" fill="#0a0a0a" stroke="#EA4335" stroke-width="1.5"/>
+  <rect x="14" y="14" width="62" height="62" rx="10" ry="10" fill="#EA4335"/>
+  <g transform="translate(24, 29)" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="42" height="30" rx="3"/>
+    <polyline points="2,6 21,20 40,6"/>
+  </g>
+  <text x="178" y="38" font-family="Helvetica,Arial,sans-serif" font-size="10" fill="#9CA3AF" text-anchor="middle" letter-spacing="2">REACH OUT VIA</text>
+  <text x="178" y="62" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#ffffff" text-anchor="middle">Email</text>
+</svg>
