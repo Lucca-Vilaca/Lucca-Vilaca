@@ -76,6 +76,18 @@ my coursework. Claude is my pair-programmer.
 ## 📫 Reach me
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/luccaokubo/">
+    <img src="assets/contact-linkedin.svg" alt="Connect on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:lucca.vilaca@gmail.com">
+    <img src="assets/contact-email.svg" alt="Reach out via Email" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/luccaokubo/)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lucca.vilaca@gmail.com)
