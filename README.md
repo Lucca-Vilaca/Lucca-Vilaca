@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:7c2d12,100:f59e0b&height=180&section=header&text=Lucca%20Vila%C3%A7a&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=junior%20software%20engineer%20%C2%B7%20learning%20by%20building&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:7c2d12,100:f59e0b&height=190&section=header&text=Lucca%20Vila%C3%A7a%20Okubo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=junior%20software%20engineer%20%C2%B7%20learning%20by%20building&descAlignY=60&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <br/>
@@ -76,9 +76,9 @@ my coursework. Claude is my pair-programmer.
 ## 📫 Reach me
 
 <p align="center">
-  <a href="mailto:lucca.vilaca@gmail.com"><img src="https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/luccaokubo/"><img src="https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/S%C3%A3o_Paulo_BR-0f0f0f?style=for-the-badge&logo=googlemaps&logoColor=f59e0b" />
+  <a href="mailto:lucca.vilaca@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/luccaokubo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/S%C3%A3o_Paulo_BR-f59e0b?style=for-the-badge&logo=googlemaps&logoColor=white" alt="São Paulo, BR" />
 </p>
 
 <div align="center">
