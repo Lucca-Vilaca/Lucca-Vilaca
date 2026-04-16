@@ -24,7 +24,7 @@ would normally do. The app itself is private while I figure it out, but the
 landing page is public:
 
 <p align="center">
-  <a href="https://lucca-vilaca.github.io/kyron-landing/">
+  <a href="https://kyron-landing-rust.vercel.app">
     <img src="https://img.shields.io/badge/%E2%86%92_Visit_the_Kyron_landing-f59e0b?style=for-the-badge&logo=flutter&logoColor=0f0f0f" alt="Kyron Landing Page" />
   </a>
 </p>
